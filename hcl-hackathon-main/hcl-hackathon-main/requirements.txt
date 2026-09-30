@@ -1,7 +1,0 @@
-google-generativeai
-chromadb
-streamlit
-pandas
-openpyxl
-python-dotenv
-pypdf
